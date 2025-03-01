@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\bin\Debug\net8.0\05.NumbersFromOneToNoverThree.exe
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\bin\Debug\net8.0\05.NumbersFromOneToNoverThree.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\bin\Debug\net8.0\05.NumbersFromOneToNoverThree.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\bin\Debug\net8.0\05.NumbersFromOneToNoverThree.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\bin\Debug\net8.0\05.NumbersFromOneToNoverThree.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\refint\05.NumbersFromOneToNoverThree.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\05.NumbersFromOneToNoverThree.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\05.NumbersFromOneToNoverThree\obj\Debug\net8.0\ref\05.NumbersFromOneToNoverThree.dll
