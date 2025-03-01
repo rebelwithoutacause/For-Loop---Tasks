@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\bin\Debug\net8.0\02.FirstAndNumbersSum.exe
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\bin\Debug\net8.0\02.FirstAndNumbersSum.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\bin\Debug\net8.0\02.FirstAndNumbersSum.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\bin\Debug\net8.0\02.FirstAndNumbersSum.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\bin\Debug\net8.0\02.FirstAndNumbersSum.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\refint\02.FirstAndNumbersSum.dll
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.pdb
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\02.FirstAndNumbersSum.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ForLoop\ForLoopLab\02.FirstAndNumbersSum\obj\Debug\net8.0\ref\02.FirstAndNumbersSum.dll
